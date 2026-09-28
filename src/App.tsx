@@ -12,7 +12,7 @@ function App() {
             <p className="eyebrow">Observe. Explore. Imagine.</p>
             <h1 id="hero-heading">Architecture, ideas, and spaces</h1>
             <p className="intro">
-              ArchInsight shares architectural knowledge, design ideas,
+              ArchInsight shares ARCHITECTURAL knowledge, design ideas,
               industry trends, and selected projects. A place to explore
               how thoughtful design shapes the spaces we inhabit.
             </p>
